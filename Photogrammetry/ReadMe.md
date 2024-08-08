@@ -1,17 +1,23 @@
 # Photogrammetry Workflow
 
-Photogrammetry and Slicer Workflow for 3D Geometric Morphometrics
+## Photogrammetry and Slicer Workflow for 3D Geometric Morphometrics
 This workflow walks through the process of digitizing skeletal materials via photogrammetry for geometric morphometric analysis in 3D Slicer.
-Software:
+
+### Software:
+
 Foldio 360
 Adobe Lightroom
 Reality Capture 
 3D Slicer
 	-Extensions: Slicer IGT & SlicerMorph
+	
 Hardware:
-Foldio smart turntable and lightbox
-Canon EOS 6D DSLR camera
-Photogrammetry
+
+-Foldio smart turntable and lightbox
+-Canon EOS 6D DSLR camera
+
+### Photogrammetry
+
 -Turn on the foldio equipment and camera to initialize Bluetooth link between turntable and camera
 -Ensure that the light box is turned on and the fluorescent room lights re turned off
 -Open foldio app on smartphone

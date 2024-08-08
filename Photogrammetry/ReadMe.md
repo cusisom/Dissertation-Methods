@@ -36,11 +36,11 @@ Canon EOS 6D DSLR camera
   - Foldio 360 should appear as an option
      - Open Select Camera Brand menu and select Canon (either one)
 	 - Under settings select IR remote delay and set to 2 seconds
-     - On main screen, set number of shots to 36 (you will see the default of 24 on the display.
-     - Click this once to change to 36)
--Set the camera to Av 
-	-Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
-	-Set camera to manual focus
+     - On main screen, set number of shots to 36 (you will see the default of 24 on the display. Click this once to change to 36)
+	 
+Set the camera to Av 
+- Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
+- Set camera to manual focus
 
 -Place specimen in the center of the turntable
 	-(Likely on a stand or ring mold. For better results, use a black stand)

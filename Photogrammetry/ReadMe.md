@@ -34,10 +34,10 @@ Canon EOS 6D DSLR camera
 * Select DSLR 360 from the device information screen
 * Click on Select Device at bottom of screen
   - Foldio 360 should appear as an option
-  -Open Select Camera Brand menu and select Canon (either one)
-  -Under settings select IR remote delay and set to 2 seconds
-  -On main screen, set number of shots to 36 (you will see the default of 24 on the display.
-  -Click this once to change to 36)
+    -Open Select Camera Brand menu and select Canon (either one)
+     -Under settings select IR remote delay and set to 2 seconds
+      -On main screen, set number of shots to 36 (you will see the default of 24 on the display.
+       -Click this once to change to 36)
 -Set the camera to Av 
 	-Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
 	-Set camera to manual focus

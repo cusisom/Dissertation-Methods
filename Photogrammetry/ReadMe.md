@@ -60,18 +60,19 @@ Canon EOS 6D DSLR camera
 ## Lightroom
 
 To view photos, click on import and choose the USB drive
-	-Find DCIM under 100 Canon
-	-Make sure that only the photos that you want imported are selected
-	-Click import
--Once photos are imported, click on develop in top right corner
-	-Will open full view of first photo in the list
-	-Click on the eyedropper icon on the right side of the screen and then click on the photo
-	-From this window you can also adjust the texture of the file. Increase a bit for more 	detail but not so much that it begins to highlight details other than the crania (e.g., aspects 	of the turntable or specimen stand)
-	-When settings are as you want them, click on copy in the bottom left corner. Click ok on 	the menu that pops up.
-	-Then hold control and press ‘a’ to select the entire library.
-	-Click sync in the bottom right corner to apply to all
-	-You can switch back to library view from the menu in the top right corner to see if 	Lightroom is applying your changes to all photos.
-	-When complete, hit Export in bottom left corner and choose a folder to send the images. 
+ - Find DCIM under 100 Canon
+ - Make sure that only the photos that you want imported are selected
+ - Click import
+ 
+Once photos are imported, click on develop in top right corner
+ - Will open full view of first photo in the list
+ - Click on the eyedropper icon on the right side of the screen and then click on the photo
+ - From this window you can also adjust the texture of the file. Increase a bit for more detail but not so much that it begins to highlight details other than the crania (e.g., aspects of the turntable or specimen stand)
+ - When settings are as you want them, click on copy in the bottom left corner. Click ok on the menu that pops up.
+ - Then hold control and press ‘a’ to select the entire library.
+ - Click sync in the bottom right corner to apply to all
+ - You can switch back to library view from the menu in the top right corner to see if Lightroom is applying your changes to all photos.
+ - When complete, hit Export in bottom left corner and choose a folder to send the images. 
 Reality Capture
 -Open Reality Capture
 -Under Workflow in the ribbon on top should have an icon that says Folder, click on this and select the folder that your exported photos are in.

@@ -84,11 +84,12 @@ Canon EOS 6D DSLR camera
 	
       - *The resulting image can vary in its presentation. In any case, it will look like a pixelated model of your specimen. If it looks like your specimen in multiple views (i.e., the images didn’t create one cohesive model) you will need to add more photos or begin the process again. If the images come together to create what looks like a good rendition of the specimen you can move on.* 
 	  
--To orient the model, click on the Tools button in the SCENE 3D ribbon. At the very left of the ribbon menu there are two buttons for setting the Reconstruction Region and the Ground Plane. Begin by clicking ‘Set Ground Plane’
-	-You will observe three colored rings and three colored bars appear within your model.
-	-Clicking on any of the colored rings will allow you to rotate your model. Do this until it 	is in proper anatomical position (for crania, position in Frankfurt Horizontal). 
-	-Once in the correct position, click on the vertical colored bar to drag the model up to 	place on the ground plane. 
--Click on the Set Reconstruction Region tab in the top left menu
+5. To orient the model, click on the `Tools` button in the `SCENE 3D` ribbon. At the very left of the ribbon menu there are two buttons for setting the Reconstruction Region and the Ground Plane. Begin by clicking `Set Ground Plane`
+	- You will observe three colored rings and three colored bars appear within your model.
+	- Clicking on any of the colored rings will allow you to rotate your model. Do this until it 	is in proper anatomical position (for crania, position in Frankfurt Horizontal). 
+	- Once in the correct position, click on the vertical colored bar to drag the model up to 	place on the ground plane. 
+	
+6. Click on the Set Reconstruction Region tab in the top left menu
 	-A bounding box will appear around your model. Make sure that this box encompasses 	your entire model (nothing outside the box)
 Setting Scale
 -Once the model is properly oriented, move to establishing the correct scale.

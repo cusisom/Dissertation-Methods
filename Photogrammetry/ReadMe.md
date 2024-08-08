@@ -23,9 +23,13 @@ Canon EOS 6D DSLR camera
 
 ### Photogrammetry
 
--Turn on the foldio equipment and camera to initialize Bluetooth link between turntable and camera
--Ensure that the light box is turned on and the fluorescent room lights re turned off
--Open foldio app on smartphone
+#### The focus of this section is on capturing data to develop three dimensional models in the Reality Capture software. This walkthrough is a step-by-step guide designed for unfamiliar users. 
+
+1. Turn on the foldio equipment and camera to initialize Bluetooth link between turntable and camera
+
+2. Ensure that the light box is turned on and the fluorescent room lights re turned off
+
+3. Open foldio app on smartphone
 	-Select DSLR 360 from the device information screen
 	-Click on Select Device at bottom of screen
 		-Foldio 360 should appear as an option

@@ -60,18 +60,18 @@ Canon EOS 6D DSLR camera
 ## Lightroom
 
 1. To view photos, click on import and choose the USB drive
- - Find DCIM under 100 Canon
- - Make sure that only the photos that you want imported are selected
- - Click import
+   - Find DCIM under 100 Canon
+   - Make sure that only the photos that you want imported are selected
+   - Click import
  
 2. Once photos are imported, click on develop in top right corner
  - This will open full view of first photo in the list
 3. Click on the eyedropper icon on the right side of the screen and then click on the photo
- - From this window you can also adjust the texture of the file. Increase a bit for more detail but not so much that it begins to highlight details other than the crania (e.g., aspects of the turntable or specimen stand)
+   - From this window you can also adjust the texture of the file. Increase a bit for more detail but not so much that it begins to highlight details other than the crania (e.g., aspects of the turntable or specimen stand)
 4. When settings are as you want them, click on copy in the bottom left corner. Click ok on the menu that pops up.
- - Then hold control and press ‘a’ to select the entire library.
- - Click sync in the bottom right corner to apply to all
- - You can switch back to library view from the menu in the top right corner to see if Lightroom is applying your changes to all photos.
+   - Then hold control and press ‘a’ to select the entire library.
+   - Click sync in the bottom right corner to apply to all
+   - You can switch back to library view from the menu in the top right corner to see if Lightroom is applying your changes to all photos.
 5. When complete, hit Export in bottom left corner and choose a folder to send the images. 
  
 ## Reality Capture
@@ -81,7 +81,9 @@ Canon EOS 6D DSLR camera
 3. Check to see that the images loaded by observing the image count in the window on the left of the screen
 4. Click on the Alignment tab in the ribbon and find the Align Images button
 	- Wait while the program creates your model
-*The resulting image can vary in its presentation. In any case, it will look like a pixelated model of your specimen. If it looks like your specimen in multiple views (i.e., the images didn’t create one cohesive model) you will need to add more photos or begin the process again. If the images come together to create what looks like a good rendition of the specimen you can move on.* 
+	
+      - *The resulting image can vary in its presentation. In any case, it will look like a pixelated model of your specimen. If it looks like your specimen in multiple views (i.e., the images didn’t create one cohesive model) you will need to add more photos or begin the process again. If the images come together to create what looks like a good rendition of the specimen you can move on.* 
+	  
 -To orient the model, click on the Tools button in the SCENE 3D ribbon. At the very left of the ribbon menu there are two buttons for setting the Reconstruction Region and the Ground Plane. Begin by clicking ‘Set Ground Plane’
 	-You will observe three colored rings and three colored bars appear within your model.
 	-Clicking on any of the colored rings will allow you to rotate your model. Do this until it 	is in proper anatomical position (for crania, position in Frankfurt Horizontal). 

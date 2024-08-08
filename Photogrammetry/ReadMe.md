@@ -6,15 +6,19 @@ This workflow walks through the process of digitizing skeletal materials via pho
 ### Software:
 
 Foldio 360
+
 Adobe Lightroom
-Reality Capture 
+
+Reality Capture
+ 
 3D Slicer
+
 	-Extensions: Slicer IGT & SlicerMorph
 	
-Hardware:
+### Hardware:
 
--Foldio smart turntable and lightbox
--Canon EOS 6D DSLR camera
+Foldio smart turntable and lightbox
+Canon EOS 6D DSLR camera
 
 ### Photogrammetry
 

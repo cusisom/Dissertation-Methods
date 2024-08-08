@@ -99,24 +99,27 @@ Canon EOS 6D DSLR camera
 	- Click on the button that says Create
 		- It will generate an unassigned point (point 0)
 	- A small pop-up window will appear in the upper right corner of your screen suggesting that control points be assigned in 2D mode. Heed this advice.
-		- Near where this pop-up appeared (top right of model viewer screen) is a small 			white box that reads ‘3Ds’. Click and hold this button to access the dropdown 			menu.
+		- Near where this pop-up appeared (top right of model viewer screen) is a small white box that reads ‘3Ds’. Click and hold this button to access the dropdown menu.
 		- Open the 2Ds library
-		- *Important. You will need to choose at least 2 different photos to set the control 			points. If you pressed ‘Test Connection’ on the foldio app when taking photos, 			you will likely have at least two copies of the first image. Do not use the duplicate 		shot when setting control points.* 
-		-Click on the first image you want to use and open the drop down menu again.
-			-Click on 2D, to view this image
-			-Click on the point 0 button that generated earlier. You can now place this 				point on your image. 
-			-After this point is placed, generate another unassigned point by clicking 				create. This will give you ‘point 1’
-			-Select this unassigned point and place it on the image.
-		*There is no protocol yet for what points to use. I am using the nasal aperture 			height as my metric for setting scale. Thus, I am setting point 0 at the distal-most 			aspect of the nasal bones, and point 1 at the tip of the anterior nasal spine 				(subspinale)
-			-Return to the 2Ds library and click on the second image. Being sure to 				select the correct points (first point 0, then point 1), assign the points to the 			corresponding positions on this image.
-		-To set your scale, you will first need to know the distance between these two 			points. Collect this distance manually on the physical specimen with sliding 			calipers. 
-		-In Reality Capture, under Tools in the SCENE 3D menu, select Define Distance
-			-Click on point 0 in one of your 2D images and drag to point 1
-			-A box will appear in the menu on the left of your screen (Selected 					Constraint(s))
-			-Reality Capture will provide you with a Defined Distance that does not 				look accurate. Delete the number provided for you and type in the 					measurement that you collected manually. **Note that Reality Capture 				insists on the scale being in meters. If your measurement is in Millimeters 				(should be), make sure to properly convert the measurement. 
-	-Once your distance is defined, go back to the Alignment Menu from the top ribbon.
-		-Click on Update
-		-If everything went right, this will quickly update the scale for your model
+		- *Important. You will need to choose at least 2 different photos to set the control points. If you pressed ‘Test Connection’ on the foldio app when taking photos, you will likely have at least two copies of the first image. Do not use the duplicate shot when setting control points.* 
+		
+		- Click on the first image you want to use and open the drop down menu again.
+			- Click on 2D, to view this image
+			- Click on the point 0 button that generated earlier. You can now place this point on your image. 
+			- After this point is placed, generate another unassigned point by clicking 				create. This will give you ‘point 1’
+			- Select this unassigned point and place it on the image.
+		- *There is no protocol yet for what points to use. I am using the nasal aperture height as my metric for setting scale. Thus, I am setting point 0 at the distal-most aspect of the nasal bones, and point 1 at the tip of the anterior nasal spine (subspinale)*
+		
+			- Return to the 2Ds library and click on the second image. Being sure to select the correct points (first point 0, then point 1), assign the points to the corresponding positions on this image.
+		- To set your scale, you will first need to know the distance between these two points. Collect this distance manually on the physical specimen with sliding calipers. 
+		- In Reality Capture, under Tools in the SCENE 3D menu, select Define Distance
+			- Click on point 0 in one of your 2D images and drag to point 1
+			- A box will appear in the menu on the left of your screen (Selected Constraint(s))
+			- Reality Capture will provide you with a Defined Distance that does not look accurate. Delete the number provided for you and type in the 	measurement that you collected manually. **Note that Reality Capture insists on the scale being in meters. If your measurement is in Millimeters (should be), make sure to properly convert the measurement. 
+	- Once your distance is defined, go back to the Alignment Menu from the top ribbon.
+		- Click on Update
+		- If everything went right, this will quickly update the scale for your model
+		
 Finishing the Model
 -To finish the model making process, return to the Mesh Model Menu
 	-Click on the Normal Detail button.

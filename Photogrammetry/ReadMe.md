@@ -39,8 +39,8 @@ Canon EOS 6D DSLR camera
      - On main screen, set number of shots to 36 (you will see the default of 24 on the display. Click this once to change to 36)
 	 
 4. Set the camera to Av 
-- Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
-- Set camera to manual focus
+   - Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
+   - Set camera to manual focus
 
 5. Place specimen in the center of the turntable
    - Use a stand/ring mold
@@ -50,7 +50,7 @@ Canon EOS 6D DSLR camera
 6. Focus camera on specimen. For best precision, use the magnifying glass button on camera to zoom over focused region. 
 
 7. Once all settings are in place, press the orange button on the foldio app to begin shooting.
-	* Do not close the app or return to home screen on phone. This will stop the process. 
+	* _Do not close the app or return to home screen on phone. This will stop the process._ 
 	
 8. Wait until all 36 photos have been taken. Then rotate antero-superiorly (rotate along sagittal plane)
 	- To capture all need angles you will need to reposition the skull about 6 times, rotating it approximately 30 degrees in the sagittal plane each time. Your last set of photos should be shot with the frontal bone positioned in the ring mold. 
@@ -59,7 +59,7 @@ Canon EOS 6D DSLR camera
 
 ## Lightroom
 
--To view photos, click on import and choose the USB drive
+To view photos, click on import and choose the USB drive
 	-Find DCIM under 100 Canon
 	-Make sure that only the photos that you want imported are selected
 	-Click import

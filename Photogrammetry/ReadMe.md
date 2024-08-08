@@ -90,17 +90,18 @@ Canon EOS 6D DSLR camera
 	- Once in the correct position, click on the vertical colored bar to drag the model up to 	place on the ground plane. 
 	
 6. Click on the Set Reconstruction Region tab in the top left menu
-	-A bounding box will appear around your model. Make sure that this box encompasses 	your entire model (nothing outside the box)
-Setting Scale
--Once the model is properly oriented, move to establishing the correct scale.
--Under the Tools tab in SCENE 3D, click on the ‘Control Points’ tab
-	-A menu will appear on the left of the screen
-	-Click on the button that says Create
-		-It will generate an unassigned point (point 0)
-	-A small pop-up window will appear in the upper right corner of your screen suggesting 	that control points be assigned in 2D mode. Heed this advice.
-		-Near where this pop-up appeared (top right of model viewer screen) is a small 			white box that reads ‘3Ds’. Click and hold this button to access the dropdown 			menu.
-		-Open the 2Ds library
-		*Important. You will need to choose at least 2 different photos to set the control 			points. If you pressed ‘Test Connection’ on the foldio app when taking photos, 			you will likely have at least two copies of the first image. Do not use the duplicate 		shot when setting control points. 
+	- A bounding box will appear around your model. Make sure that this box encompasses your entire model (nothing outside the box)
+	
+7. Setting Scale
+   - Once the model is properly oriented, move to establishing the correct scale.
+   - Under the Tools tab in SCENE 3D, click on the ‘Control Points’ tab
+	- A menu will appear on the left of the screen
+	- Click on the button that says Create
+		- It will generate an unassigned point (point 0)
+	- A small pop-up window will appear in the upper right corner of your screen suggesting that control points be assigned in 2D mode. Heed this advice.
+		- Near where this pop-up appeared (top right of model viewer screen) is a small 			white box that reads ‘3Ds’. Click and hold this button to access the dropdown 			menu.
+		- Open the 2Ds library
+		*Important. You will need to choose at least 2 different photos to set the control 			points. If you pressed ‘Test Connection’ on the foldio app when taking photos, 			you will likely have at least two copies of the first image. Do not use the duplicate 		shot when setting control points.* 
 		-Click on the first image you want to use and open the drop down menu again.
 			-Click on 2D, to view this image
 			-Click on the point 0 button that generated earlier. You can now place this 				point on your image. 

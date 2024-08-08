@@ -13,11 +13,12 @@ Reality Capture
  
 3D Slicer
 
-	-Extensions: Slicer IGT & SlicerMorph
+	Extensions: Slicer IGT & SlicerMorph
 	
 ### Hardware:
 
 Foldio smart turntable and lightbox
+
 Canon EOS 6D DSLR camera
 
 ### Photogrammetry

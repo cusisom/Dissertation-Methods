@@ -39,8 +39,8 @@ Canon EOS 6D DSLR camera
        - On main screen, set number of shots to 36 (you will see the default of 24 on the display. Click this once to change to 36)
 	 
 4. Set the camera to Av 
-   - Set the `white balance` to `Color Temperature` (hit the `Q menu` button and scroll through options until you see white balance)
-   - Set camera to `manual focus`
+   - Set the `White Balance` to `Color Temperature` (hit the `Q menu` button and scroll through options until you see white balance)
+   - Set camera to `Manual Focus`
 
 5. Place specimen in the center of the turntable
    - Use a stand/ring mold
@@ -89,6 +89,7 @@ Canon EOS 6D DSLR camera
 	- You will observe three colored rings and three colored bars appear within your model.
 	- Clicking on any of the colored rings will allow you to rotate your model. Do this until it is in proper anatomical position (for crania, position in Frankfurt Horizontal). 
 	- Once in the correct position, click on the vertical colored bar to drag the model up to place on the ground plane. 
+	- If importing this into `3D Slicer` (which we will for this purpose), you will want to orient the image backwords (i.e., when viewed from the front, you are looking at the back). This can be checked by opening the `View` menu under the `Scene 3D` tab and finding the `View Camera` box. The default setting is on `Perspective` which will be used for orienting the specimens. Click on this to see the dropdown menu and select `Front`. Adjust the orientation until this view shows the back of the specimen.
 	
 6. Click on the `Set Reconstruction Region` tab in the top left menu
 	- A bounding box will appear around your model. Make sure that this box encompasses your entire model (nothing outside the box)
@@ -97,7 +98,7 @@ Canon EOS 6D DSLR camera
    - Once the model is properly oriented, move to establishing the correct scale.
    - Under the `Tools` tab in `SCENE 3D`, click on the `Control Points` tab
 	- A menu will appear on the left of the screen
-	- Click on the button that says `Create`
+	- Click on the button that says `Control Points` in this menu and then select `Create`
 		- It will generate an unassigned point (point 0)
 	- A small pop-up window will appear in the upper right corner of your screen suggesting that control points be assigned in 2D mode. Heed this advice.
 		- Near where this pop-up appeared (top right of model viewer screen) is a small white box that reads `3Ds`. Click and hold this button to access the dropdown menu.
@@ -129,7 +130,17 @@ Canon EOS 6D DSLR camera
       - When complete, a matte white model will be provided
 	  - Look over the model to ensure that all aspects of your specimen are visible
 	  - *If the model includes foreign objects (e.g., parts of the stand), use the `Lasso` tool provided in the `Tools` menu under the `Scene 3D` ribbon.Use this tool to highlight the unwanted objects and click on `Filter Selection` to remove.*
-	 - With the model completed, we want to compress the file for more efficient computing down the line. *This step may or may not be necessary depending on the computing power of the processor being used. Thus, it is a part of our workflow but possibly unnecessary for others.* To accomplish this, click on the `Simplify` button in the same `Tools` menu. We simplify to 200,000
+	 - With the model completed, we want to compress the file for more efficient computing down the line. *This step may or may not be necessary depending on the computing power of the processor being used. Thus, it is a part of our workflow but possibly unnecessary for others.* To accomplish this, click on the `Simplify` button in the same `Tools` menu. We simplify the `Target Triangle Count` to 200,000 (Observe the `Simplify Tool` menu that appears on the left side of the screen).
+		- Click `Simplify` at the bottom of the menu
+
+9. Texturize and Export
+	- With the model completed and simplified, we want to apply the appropriate texture. This can be done by selecting `Texture` under the `Mesh Model` menu. 
+	- With each step completed we can now export the model to be analyzed in `3D Slicer'
+		- While in the same menu, select `Dense Mesh Model` from the `Export` box
+		- Choose the Folder to save it in (*We create a new folder for each specimen*)
+		Press `Ok` when the `Export Model` window pops up
+
+## The next processing steps can be found in the `Morphometrics` section
 
 	
 

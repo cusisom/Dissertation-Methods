@@ -5,7 +5,7 @@ This workflow walks through the process of digitizing skeletal materials via pho
 
 ### Software:
 
-Foldio 360
+Foldio 360 *Phone App*
 
 Adobe Lightroom
 
@@ -62,17 +62,17 @@ Canon EOS 6D DSLR camera
 1. To view photos, click on import and choose the USB drive
    - Find DCIM under 100 Canon
    - Make sure that only the photos that you want imported are selected
-   - Click import
+   - Click `Import`
  
-2. Once photos are imported, click on develop in top right corner
- - This will open full view of first photo in the list
-3. Click on the eyedropper icon on the right side of the screen and then click on the photo
-   - From this window you can also adjust the texture of the file. Increase a bit for more detail but not so much that it begins to highlight details other than the crania (e.g., aspects of the turntable or specimen stand)
-4. When settings are as you want them, click on copy in the bottom left corner. Click ok on the menu that pops up.
+2. Once photos are imported, click on `Develop` in top right corner
+   - This will open full view of first photo in the list
+3. Click on the `eyedropper icon` on the right side of the screen and then click on the photo
+   - From this window you can also adjust the Texture and Temp of the file. Increase a bit for more detail but not so much that it begins to highlight details other than the crania (e.g., aspects of the turntable or specimen stand)
+4. When settings are as you want them, click on `Copy` in the bottom left corner. Click `Ok` on the menu that pops up.
    - Then hold control and press ‘a’ to select the entire library.
-   - Click sync in the bottom right corner to apply to all
+   - Click `Sync` in the bottom right corner to apply to all
    - You can switch back to library view from the menu in the top right corner to see if Lightroom is applying your changes to all photos.
-5. When complete, hit Export in bottom left corner and choose a folder to send the images. 
+5. When complete, hit `Export` in bottom left corner and choose a folder to send the images. 
  
 ## Reality Capture
 

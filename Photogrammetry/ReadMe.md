@@ -27,20 +27,20 @@ Canon EOS 6D DSLR camera
 
 1. Turn on the foldio equipment and camera to initialize Bluetooth link between turntable and camera
 
-2. Ensure that the light box is turned on and the fluorescent room lights re turned off
+2. Ensure that the light box is turned on and the fluorescent room lights are turned off
 
-3. Open foldio app on smartphone
+3. Open `foldio app` on smartphone
 
-* Select DSLR 360 from the device information screen
-* Click on Select Device at bottom of screen
-  - Foldio 360 should appear as an option
-     - Open Select Camera Brand menu and select Canon (either one)
-	 - Under settings select IR remote delay and set to 2 seconds
-     - On main screen, set number of shots to 36 (you will see the default of 24 on the display. Click this once to change to 36)
+   - Select DSLR 360 from the device information screen
+   - Click on Select Device at bottom of screen
+     - Foldio 360 should appear as an option
+       - Open Select Camera Brand menu and select Canon (either one)
+	   - Under settings select IR remote delay and set to 2 seconds
+       - On main screen, set number of shots to 36 (you will see the default of 24 on the display. Click this once to change to 36)
 	 
 4. Set the camera to Av 
-   - Set the white balance to Color Temperature (hit the Q menu button and scroll through 	options until you see white balance)
-   - Set camera to manual focus
+   - Set the `white balance` to `Color Temperature` (hit the `Q menu` button and scroll through options until you see white balance)
+   - Set camera to `manual focus`
 
 5. Place specimen in the center of the turntable
    - Use a stand/ring mold

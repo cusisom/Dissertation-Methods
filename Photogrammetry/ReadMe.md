@@ -77,53 +77,54 @@ Canon EOS 6D DSLR camera
 ## Reality Capture
 
 1. Open Reality Capture
-2. Under Workflow in the ribbon on top should have an icon that says Folder, click on this and select the folder that your exported photos are in.
+2. Under `Workflow` in the ribbon on top should have an icon that says `Folder`, click on this and select the folder that your exported photos are in.
 3. Check to see that the images loaded by observing the image count in the window on the left of the screen
-4. Click on the Alignment tab in the ribbon and find the Align Images button
+4. Click on the `Alignment` tab in the ribbon and find the `Align Images` button
 	- Wait while the program creates your model
 	
       - *The resulting image can vary in its presentation. In any case, it will look like a pixelated model of your specimen. If it looks like your specimen in multiple views (i.e., the images didn’t create one cohesive model) you will need to add more photos or begin the process again. If the images come together to create what looks like a good rendition of the specimen you can move on.* 
 	  
-5. To orient the model, click on the `Tools` button in the `SCENE 3D` ribbon. At the very left of the ribbon menu there are two buttons for setting the Reconstruction Region and the Ground Plane. Begin by clicking `Set Ground Plane`
+5. To orient the model, click on the `Tools` button in the `SCENE 3D` ribbon. At the very left of the ribbon menu there are two buttons for setting the `Reconstruction Region` and the `Ground Plane`. Begin by clicking `Set Ground Plane`
 	- You will observe three colored rings and three colored bars appear within your model.
-	- Clicking on any of the colored rings will allow you to rotate your model. Do this until it 	is in proper anatomical position (for crania, position in Frankfurt Horizontal). 
-	- Once in the correct position, click on the vertical colored bar to drag the model up to 	place on the ground plane. 
+	- Clicking on any of the colored rings will allow you to rotate your model. Do this until it is in proper anatomical position (for crania, position in Frankfurt Horizontal). 
+	- Once in the correct position, click on the vertical colored bar to drag the model up to place on the ground plane. 
 	
-6. Click on the Set Reconstruction Region tab in the top left menu
+6. Click on the `Set Reconstruction Region` tab in the top left menu
 	- A bounding box will appear around your model. Make sure that this box encompasses your entire model (nothing outside the box)
 	
 7. Setting Scale
    - Once the model is properly oriented, move to establishing the correct scale.
-   - Under the Tools tab in SCENE 3D, click on the ‘Control Points’ tab
+   - Under the `Tools` tab in `SCENE 3D`, click on the `Control Points` tab
 	- A menu will appear on the left of the screen
-	- Click on the button that says Create
+	- Click on the button that says `Create`
 		- It will generate an unassigned point (point 0)
 	- A small pop-up window will appear in the upper right corner of your screen suggesting that control points be assigned in 2D mode. Heed this advice.
-		- Near where this pop-up appeared (top right of model viewer screen) is a small white box that reads ‘3Ds’. Click and hold this button to access the dropdown menu.
-		- Open the 2Ds library
-		- *Important. You will need to choose at least 2 different photos to set the control points. If you pressed ‘Test Connection’ on the foldio app when taking photos, you will likely have at least two copies of the first image. Do not use the duplicate shot when setting control points.* 
+		- Near where this pop-up appeared (top right of model viewer screen) is a small white box that reads `3Ds`. Click and hold this button to access the dropdown menu.
+		- Open the `2Ds` library
+		- *Important. You will need to choose at least 2 different photos to set the control points. If you pressed `Test Connection` on the foldio app when taking photos, you will likely have at least two copies of the first image. Do not use the duplicate shot when setting control points.* 
 		
 		- Click on the first image you want to use and open the drop down menu again.
-			- Click on 2D, to view this image
+			- Click on `2D`, to view this image
 			- Click on the point 0 button that generated earlier. You can now place this point on your image. 
-			- After this point is placed, generate another unassigned point by clicking 				create. This will give you ‘point 1’
+			- After this point is placed, generate another unassigned point by clicking `create`. This will give you ‘point 1’
 			- Select this unassigned point and place it on the image.
-		- *There is no protocol yet for what points to use. I am using the nasal aperture height as my metric for setting scale. Thus, I am setting point 0 at the distal-most aspect of the nasal bones, and point 1 at the tip of the anterior nasal spine (subspinale)*
+		- *There is no protocol yet for what points to use. I am using the nasal height as my metric for setting scale. Thus, I am setting point 0 at Nasion, and point 1 at the tip of the anterior nasal spine*
 		
-			- Return to the 2Ds library and click on the second image. Being sure to select the correct points (first point 0, then point 1), assign the points to the corresponding positions on this image.
+			- Return to the `2Ds` library and click on the second image. Being sure to select the correct points (first point 0, then point 1), assign the points to the corresponding positions on this image.
 		- To set your scale, you will first need to know the distance between these two points. Collect this distance manually on the physical specimen with sliding calipers. 
-		- In Reality Capture, under Tools in the SCENE 3D menu, select Define Distance
+		- In Reality Capture, under `Tools` in the `SCENE 3D` menu, select `Define Distance`
 			- Click on point 0 in one of your 2D images and drag to point 1
 			- A box will appear in the menu on the left of your screen (Selected Constraint(s))
-			- Reality Capture will provide you with a Defined Distance that does not look accurate. Delete the number provided for you and type in the 	measurement that you collected manually. **Note that Reality Capture insists on the scale being in meters. If your measurement is in Millimeters (should be), make sure to properly convert the measurement. 
-	- Once your distance is defined, go back to the Alignment Menu from the top ribbon.
-		- Click on Update
+			- Reality Capture will provide you with a Defined Distance that does not look accurate. Delete the number provided for you and type in the 	measurement that you collected manually. 
+			- *Note that Reality Capture insists on the scale being in meters. If your measurement is in Millimeters (should be), make sure to properly convert the measurement.*
+	- Once your distance is defined, go back to the `Alignment` Menu from the top ribbon.
+		- Click on `Update`
 		- If everything went right, this will quickly update the scale for your model
 		
-Finishing the Model
--To finish the model making process, return to the Mesh Model Menu
-	-Click on the Normal Detail button.
-	-This will take a minute
+8. Finishing the Model
+   - To finish the model making process, return to the Mesh Model Menu
+	- Click on the Normal Detail button.
+	- This will take a minute
 
 	
 

@@ -122,9 +122,13 @@ Canon EOS 6D DSLR camera
 		- If everything went right, this will quickly update the scale for your model
 		
 8. Finishing the Model
-   - To finish the model making process, return to the Mesh Model Menu
-	- Click on the Normal Detail button.
+   - To finish the model making process, return to the `Mesh Model` menu
+	- Click on the `Normal Detail` button.
 	- This will take a minute
+      - When complete, a matte white model will be provided
+	  - Look over the model to ensure that all aspects of your specimen are visible
+	  - *If the model includes foreign objects (e.g., parts of the stand), use the `Lasso` tool provided in the `Tools` menu under the `Scene 3D` ribbon.Use this tool to highlight the unwanted objects and click on `Filter Selection` to remove.*
+	 - With the model completed, we want to compress the file for more efficient computing down the line. *This step may or may not be necessary depending on the computing power of the processor being used. Thus, it is a part of our workflow but possibly unnecessary for others.* To accomplish this, click on the `Simplify` button in the same `Tools` menu. We simplify to 200,000
 
 	
 

@@ -71,6 +71,7 @@ Canon EOS 6D DSLR camera
 4. When settings are as you want them, click on `Copy` in the bottom left corner. Click `Ok` on the menu that pops up.
    - Then hold control and press ‘a’ to select the entire library.
    - Click `Sync` in the bottom right corner to apply to all
+		- Another pop-up window will appear. Click `Ok` to sync
    - You can switch back to library view from the menu in the top right corner to see if Lightroom is applying your changes to all photos.
 5. When complete, hit `Export` in bottom left corner and choose a folder to send the images. 
  
@@ -79,7 +80,7 @@ Canon EOS 6D DSLR camera
 1. Open Reality Capture
 2. Under `Workflow` in the ribbon on top should have an icon that says `Folder`, click on this and select the folder that your exported photos are in.
 3. Check to see that the images loaded by observing the image count in the window on the left of the screen
-4. Click on the `Alignment` tab in the ribbon and find the `Align Images` button
+4. Click on the `Alignment` tab in the ribbon and find/click on the `Align Images` button
 	- Wait while the program creates your model
 	
       - *The resulting image can vary in its presentation. In any case, it will look like a pixelated model of your specimen. If it looks like your specimen in multiple views (i.e., the images didn’t create one cohesive model) you will need to add more photos or begin the process again. If the images come together to create what looks like a good rendition of the specimen you can move on.* 

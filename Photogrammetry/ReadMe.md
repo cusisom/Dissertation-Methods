@@ -47,6 +47,8 @@ Canon EOS 6D DSLR camera
    
    - If this is a skull, set the beginning position as close to Frankfurt horizontal as possible. 
    
+   ![STT](../Morphometrics/Images/STT.jpg)
+   
 6. Focus camera on specimen. For best precision, use the magnifying glass button on camera to zoom over focused region. 
 
 7. Once all settings are in place, press the orange button on the foldio app to begin shooting.

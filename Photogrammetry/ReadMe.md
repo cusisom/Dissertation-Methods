@@ -47,7 +47,8 @@ Canon EOS 6D DSLR camera
    
    - If this is a skull, set the beginning position as close to Frankfurt horizontal as possible. 
    
-   <p align="center"><img src="Images/STT.jpg" width="300" height="250">
+   <p align="right"><img src="Images/STT.jpg" width="300" height="250">
+   <br clear="right"/>
    
 6. Focus camera on specimen. For best precision, use the magnifying glass button on camera to zoom over focused region. 
 

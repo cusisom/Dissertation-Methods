@@ -1,8 +1,8 @@
-setwd("C:/Users/danny/Documents/git/Dissertation-Methods/Coordinate-Data")
+setwd("C:/Users/danny/Documents/git/Dissertation-Methods/Coordinate-Data/Data")
 require(geomorph)
 require(SlicerMorphR)
 
-SM.log.file = "2024-08-06_10_32_50/analysis.log"
+SM.log.file = "Analysis 8-9/analysis.log"
 SM.log <- parser(SM.log.file)
 head(SM.log)
 
@@ -40,3 +40,9 @@ head(Mshape.Coords)
 
 d1.pca<-gm.prcomp(d1array.gpa$coords)
 plot(d1.pca)
+
+
+ SlicerMorph.MS <- read.table(file = paste(SM.log$output.path,
+                                            SM.log$MeanShape,
+                                            sep="/"),
+                               sep=",", header = TRUE, row.names=1)

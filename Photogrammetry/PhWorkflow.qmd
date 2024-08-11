@@ -1,7 +1,0 @@
----
-title: "Photogrammetry Workflow"
-author: "Daniel Cusimano"
-date: "08/10/2024"
-output: html_document
----
-# Introduction 
